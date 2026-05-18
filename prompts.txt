@@ -1,0 +1,11 @@
+Create a Playwright Python scraper skeleton using sync_playwright.
+
+How can I safely extract optional elements in Playwright Python?
+
+How do I save UTF-8 JSON properly in Python?
+
+How can I use Playwright locators instead of XPath?
+
+Add comments explaining extraction logic.
+
+How do I wait properly for dynamically loaded content in Playwright?
